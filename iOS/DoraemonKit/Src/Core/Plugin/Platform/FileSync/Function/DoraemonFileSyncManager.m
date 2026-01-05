@@ -15,7 +15,6 @@
 #import <FMDB/FMDatabase.h>
 #import "DoraemonAppInfoUtil.h"
 
-
 #define DK_SERVER_PORT 9002
 
 @interface DoraemonFileSyncManager()
