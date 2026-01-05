@@ -23,7 +23,6 @@
 
 @end
 
-
 @implementation DoraemonFileSyncManager
 
 + (instancetype)sharedInstance{
