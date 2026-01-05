@@ -1,13 +1,13 @@
 PODS:
-  - DoraemonKit/Core (3.1.7):
+  - DoraemonKit/Core (3.1.8):
     - FMDB
     - GCDWebServer
     - GCDWebServer/WebDAV
     - GCDWebServer/WebUploader
-  - DoraemonKit/Foundation (3.1.7):
+  - DoraemonKit/Foundation (3.1.8):
     - Mantle (~> 2.2)
     - SocketRocket (~> 0.6)
-  - DoraemonKit/WithMultiControl (3.1.7):
+  - DoraemonKit/WithMultiControl (3.1.8):
     - DoraemonKit/Core
     - DoraemonKit/Foundation
   - FMDB (2.7.5):
@@ -42,7 +42,7 @@ EXTERNAL SOURCES:
     :path: ".."
 
 SPEC CHECKSUMS:
-  DoraemonKit: 0b45c9dc6ab34bd426a2782ee1bf7ab13492a60b
+  DoraemonKit: c5df24e1a528db08b4cf436c1b162c76447ee5c3
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
   Mantle: c5aa8794a29a022dfbbfc9799af95f477a69b62d
